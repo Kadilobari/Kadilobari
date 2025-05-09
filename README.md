@@ -1,4 +1,4 @@
-![Kadilobari Banner](./github-header-image (1).png)
+![Kadilobari Kadilobari Banner](./github-header-image (1).png)
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/google-logo.png" alt="Google" />
@@ -10,10 +10,6 @@
 </p>
 
 # 👋 Hi, I'm Kadilobari Baabel
-
-<img src="https://github.com/kadilobaribaabel.png" width="100" alt="Kadilobari Profile Picture" />
-
-
 
 🎓 I’m a passionate and evolving data and IT professional actively building a career at the intersection of data analytics, business intelligence, and IT automation. This GitHub profile highlights my learning journey through industry-recognized Google Professional Certificates and the practical projects I'm developing along the way.
 
