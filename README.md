@@ -1,4 +1,4 @@
-![Kadilobari Baabel Banner](./your-banner-filename.png)
+![Kadilobari Banner](./your-banner-filename.png)
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/google-logo.png" alt="Google" />
@@ -11,7 +11,7 @@
 
 # 👋 Hi, I'm Kadilobari Baabel
 
-<img src="https://github.com/kadilobaribaabel.png" width="100" alt="Kadilobari Baabel Profile Picture" />
+<img src="https://github.com/kadilobaribaabel.png" width="100" alt="Kadilobari Profile Picture" />
 
 
 
