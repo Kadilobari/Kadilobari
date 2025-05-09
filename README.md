@@ -1,4 +1,5 @@
-![Kadilobari Baabel Banner](C:\Users\user\Downloads\github-header-image (1).png)
+![Kadilobari Baabel Banner](./your-banner-filename.png)
+
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/google-logo.png" alt="Google" />
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
