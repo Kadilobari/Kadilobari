@@ -47,7 +47,7 @@ This case study explored the opportunity for Cyclistic, Chicago's established bi
 | Category             | Tools/Technologies                                         |
 |----------------------|------------------------------------------------------------|
 | **Data Analysis**     | R, SQL, Excel, Google Sheets                               |
-| **Visualization**     | Tableau, Google Dataflow, ggplot2                            |
+| **Visualization**     | Tableau, Power BI, ggplot2                            |
 | **Programming**       | Python, Bash, Git                                          |
 | **Machine Learning**  | pandas, NumPy, scikit-learn *(in progress)*                |
 | **IT Support**        | Windows, Linux, Networking *(in progress)*                |
