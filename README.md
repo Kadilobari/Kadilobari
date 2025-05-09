@@ -1,4 +1,4 @@
-![Kadilobari Banner](./your-banner-filename.png)
+![Kadilobari Banner](./github-header-image (1).png)
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/google-logo.png" alt="Google" />
