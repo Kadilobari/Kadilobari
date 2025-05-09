@@ -34,7 +34,7 @@
 
 ### 📊 Google Data Analytics Capstone Project  
 **Title:** ***Converting Casual Riders: A Data-Driven Approach to Membership Growth at Cyclistic***  
-**Tools Used:** R  
+**Tool Used:** R  
 **Description:**  
 This case study explored the opportunity for Cyclistic, Chicago's established bike-share program, to leverage its extensive rider data. Recognizing the higher profitability of annual members, the analysis focuses on understanding the differences in behavior between casual riders and members. The study aims to develop actionable insights and recommendations to refine Cyclistic's marketing strategies and drive the conversion of casual riders into valuable annual memberships.
 
