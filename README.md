@@ -1,13 +1,3 @@
-![Kadilobari Kadilobari Banner](./github-header-image (1).png)
-
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/google-logo.png" alt="Google" />
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" />
-  <img src="https://img.icons8.com/ios-filled/50/276DC3/r-project.png" alt="R" />
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" />
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" />
-</p>
 
 # 👋 Hi, I'm Kadilobari Baabel
 
