@@ -39,6 +39,13 @@ This case study explored the opportunity for Cyclistic, Chicago's established bi
 
 🔗 [View on Kaggle →](https://www.kaggle.com/code/kadilobaribaabel/my-google-data-analytics-capstone-project)
 
+### 📊 IT automation using python Project 1
+**Title:** ***Active User Report Generator***  
+**Tool Used:** Python  
+**Description:**  
+This Python script tracks user login and logout events across machines and generates a report showing which users are currently logged in to each machine. It's ideal for IT administrators who need real-time insights into user activity across a network.
+
+🔗 [View on Kaggle →](https://www.kaggle.com/code/kadilobaribaabel/it-automation-using-python-project1)
 ---
 
 ## 🛠️ Skills & Tools
